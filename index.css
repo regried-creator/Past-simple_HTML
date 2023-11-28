@@ -1,0 +1,46 @@
+html{
+    background-color: rgb(213, 216, 244);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(127, 229, 255);
+    padding: 10px;
+    border-bottom: 5px solid rgb(51, 51, 135);
+}
+
+h1{
+    color: rgb(56, 13, 97);
+}
+
+hr.dashed {
+    border-top: 2px dashed
+  }
+
+ul{
+    font-size: 120%;
+    line-height: 2;
+    list-style-image: linear-gradient(to left bottom, rgb(255, 0, 179), rgb(78, 78, 210));
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 20%;
+    max-height: 20%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
